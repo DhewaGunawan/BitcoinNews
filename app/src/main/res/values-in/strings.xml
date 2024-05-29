@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- HOME PAGE -->
+
+    <!-- DETAIL PAGE -->
+    <string name="title_detail">Detail</string>
+    <string name="detail_text_published">Terbit : %s</string>
+    <string name="detail_text_author">Penulis : %s</string>
+
+    <!-- FAVORITE PAGE -->
+    <string name="title_favorite">Favorit</string>
+
+    <!-- WEB PAGE -->
+    <string name="title_web">Web</string>
+    <string name="web_btn_see_news_sources">Lihat Sumber Berita</string>
+
+    <!-- SETTING PAGE -->
+    <string name="title_setting">Pengaturan</string>
+    <string name="setting_theme_title">Tema</string>
+    <string name="setting_support_title">Supported By</string>
+    <string name="setting_dark_mode">Mode Gelap</string>
+    <string name="setting_text_profile_title">Profil</string>
+    <string name="setting_text_profile_name_title">Nama : </string>
+    <string name="setting_text_profile_name">Dhewa Gunawan Putra</string>
+    <string name="setting_text_profile_class_title">Kelas : </string>
+    <string name="setting_text_profile_class">Menjadi Android Developer Expert</string>
+    <string name="setting_text_about_title">Tentang</string>
+    <string name="setting_text_description_1">Aplikasi ini mempunyai tema yang sama dengan aplikasi sebelumnya yaitu Indhegram dan Indhestory yang digunakan untuk submission kelas sebelumnya.</string>
+    <string name="setting_text_description_2">Semua desain yang ada telah dibuat khusus untuk aplikasi ini dalam rangka mempercantik tampilan.</string>
+    <string name="setting_text_description_3">Data yang ditampilkan pada aplikasi ini bersumber dari NewsAPI.</string>
+
+    <!-- NAVIGATION -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- UTIL -->
+    <string name="util_please_wait">Mohon Tunggu…</string>
+    <string name="util_no_data">Data Kosong</string>
+    <string name="util_already_open_page">Anda sudah berada di halaman ini</string>
+    <string name="util_something_wrong">Ada sesuatu yang salah</string>
+
+    <!-- MENU -->
+    <string name="menu_setting">Pengaturan</string>
+    <string name="menu_home">Beranda</string>
+    <string name="menu_favorite">Favorit</string>
+
+    <!-- IMAGE DESCRIPTION-->
+    <string name="image_description">Gambar</string>
+
+    <!-- CONTENT DESCRIPTION -->
+    <string name="cd_fishapp">fishapp</string>
+    <string name="cd_indhegram">indhegram</string>
+    <string name="cd_indhestory">indhestory</string>
+
+    <!-- OTHER -->
+
+</resources>

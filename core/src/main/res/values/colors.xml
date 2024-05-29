@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- LIGHT -->
+    <color name="lightColorPrimary">#7289da</color>
+    <color name="lightColorPrimaryLight">#99aab5</color>
+    <color name="lightColorAccent">#95AAF4</color>
+    <color name="lightColorBackground">#FFFFFFFF</color>
+
+    <!-- DARK -->
+    <color name="darkColorPrimary">#282b30</color>
+    <color name="darkColorBackground">#424549</color>
+    <color name="darkColorAccent">#36393e</color>
+    <color name="darkColorTextTitle">#7289da</color>
+
+    <!-- OTHER -->
+    <color name="black">#FF000000</color>
+    <color name="greyscale">#9AD0D0D0</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#EF8656</color>
+    <color name="green">#26923C</color>
+
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">BitcoinNews</string>
+
+    <!-- FAVORITE PAGE -->
+    <string name="title_favorite">Favorite</string>
+
+    <!-- NAVIGATION -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- UTIL -->
+    <string name="util_please_wait">Please Wait…</string>
+    <string name="util_no_data">Empty Data</string>
+    <string name="util_already_open_page">You are already on this page</string>
+    <string name="util_something_wrong">There\'s something wrong</string>
+
+    <!-- MENU -->
+    <string name="menu_setting">Setting</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+
+    <!-- IMAGE DESCRIPTION-->
+    <string name="image_description">Image</string>
+
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="16dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".ui.detail.DetailActivity"
+    tools:showIn="@layout/activity_detail">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_16dp"
+        android:layout_marginTop="@dimen/_16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_detail_title"
+            style="@style/TextViewTitleWithoutBackgroundStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/_18sp"
+            tools:text="Title of news" />
+
+        <TextView
+            android:id="@+id/tv_detail_publish"
+            style="@style/TextViewSameBackgroundStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_6dp"
+            tools:text="Published date" />
+
+        <TextView
+            android:id="@+id/tv_detail_author"
+            style="@style/TextViewSameBackgroundStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_4dp"
+            tools:text="Author of the news" />
+
+        <TextView
+            android:id="@+id/tv_detail_description"
+            style="@style/TextViewSameBackgroundStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_12dp"
+            android:justificationMode="inter_word"
+            tools:text="Description of the news" />
+
+        <Button
+            android:id="@+id/btn_to_web"
+            style="@style/ButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_12dp"
+            android:text="@string/web_btn_see_news_sources" />
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

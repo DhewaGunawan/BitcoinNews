@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- FAVORITE PAGE -->
+    <string name="title_favorite">Favorit</string>
+
+    <!-- NAVIGATION -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- UTIL -->
+    <string name="util_please_wait">Mohon Tunggu…</string>
+    <string name="util_no_data">Data Kosong</string>
+    <string name="util_already_open_page">Anda sudah berada di halaman ini</string>
+    <string name="util_something_wrong">Ada sesuatu yang salah</string>
+
+    <!-- MENU -->
+    <string name="menu_setting">Pengaturan</string>
+    <string name="menu_home">Beranda</string>
+    <string name="menu_favorite">Favorit</string>
+
+    <!-- IMAGE DESCRIPTION-->
+    <string name="image_description">Gambar</string>
+
+</resources>

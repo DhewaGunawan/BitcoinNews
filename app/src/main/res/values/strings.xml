@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name" translatable="false">BitcoinNews</string>
+
+    <!-- HOME PAGE -->
+
+    <!-- DETAIL PAGE -->
+    <string name="title_detail">Detail</string>
+    <string name="detail_text_published">Publish : %s</string>
+    <string name="detail_text_author">Author : %s</string>
+
+    <!-- FAVORITE PAGE -->
+    <string name="title_favorite">Favorite</string>
+
+    <!-- WEB PAGE -->
+    <string name="title_web">Web</string>
+    <string name="web_btn_see_news_sources">See News Sources</string>
+
+    <!-- SETTING PAGE -->
+    <string name="title_setting">Setting</string>
+    <string name="setting_theme_title">Theme</string>
+    <string name="setting_support_title">Supported By</string>
+    <string name="setting_dark_mode">Dark Mode</string>
+    <string name="setting_text_profile_title">Profile</string>
+    <string name="setting_text_profile_name_title">Name : </string>
+    <string name="setting_text_profile_name">Dhewa Gunawan Putra</string>
+    <string name="setting_text_profile_class_title">Class : </string>
+    <string name="setting_text_profile_class">Menjadi Android Developer Expert</string>
+    <string name="setting_text_about_title">About</string>
+    <string name="setting_text_description_1">This application has the same theme as the previous application namely Indhegram and Indhestory which was used for previous class submissions.</string>
+    <string name="setting_text_description_2">All existing designs have been created specifically for this application to enhance its appearance.</string>
+    <string name="setting_text_description_3">The data displayed in this application comes from NewsAPI.</string>
+
+    <!-- NAVIGATION -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- UTIL -->
+    <string name="util_please_wait">Please Wait…</string>
+    <string name="util_no_data">Empty Data</string>
+    <string name="util_already_open_page">You are already on this page</string>
+    <string name="util_something_wrong">There\'s something wrong</string>
+
+    <!-- MENU -->
+    <string name="menu_setting">Setting</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+
+    <!-- IMAGE DESCRIPTION-->
+    <string name="image_description">Image</string>
+
+    <!-- CONTENT DESCRIPTION -->
+    <string name="cd_fishapp">fishapp</string>
+    <string name="cd_indhegram">indhegram</string>
+    <string name="cd_indhestory">indhestory</string>
+
+    <!-- OTHER -->
+
+</resources>
